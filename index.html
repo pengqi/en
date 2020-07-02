@@ -46,6 +46,7 @@
 
 
 
+
 <script type="text/javascript">
   // Wait for the page to load first
   var _prevOnload = window.onload;
@@ -55,10 +56,12 @@
           var href = window.location.href;
           var indexOfEn = href.toLowerCase().indexOf('/en/');
           if(indexOfEn !== -1) {
-              window.location.href = href.replace('/en/', '/');
+	 //����������޸ľͺ��ˣ�д�����Ӣ����վ��ַ
+              window.location.href = href.replace(href, 'https://pengqi.github.io/en/');
           }
           else {
-              window.location.href = href.replace(/(^http[s]?:\/\/[a-z0-9.]*[:?0-9]*\/)(.*)/i, '$1en/$2');
+               // ������վ��ַ
+              window.location.href = href.replace(href, 'https://pengqi.xyz');
           }
           if(typeof(_prevOnload) === 'function') {
               _prevOnload();
@@ -66,7 +69,7 @@
           return false;
       }
   }
-</script>
+</script>j
 
   <title>Tianjian Wu</title>
   
@@ -553,7 +556,7 @@
 
 <div class="copyright">
   
-  &copy; Thu Apr 09 2020 08:00:00 GMT+0800 (GMT+08:00) – 
+  &copy; 2020-04-09T00:00:00.000Z – 
   <span itemprop="copyrightYear">2020</span>
   <span class="with-love">
     <i class="fa fa-heart"></i>
