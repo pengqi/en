@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tianjian Wu</title>
+    <link>https://pengqi.xyz/en/</link>
+    
+    <atom:link href="/en/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Thu, 02 Jul 2020 03:43:16 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>hello</title>
+      <link>https://pengqi.xyz/en/archives/13522.html</link>
+      <guid>https://pengqi.xyz/en/archives/13522.html</guid>
+      <pubDate>Thu, 02 Jul 2020 03:25:11 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h3 id=&quot;Hello&quot;&gt;&lt;a href=&quot;#Hello&quot; class=&quot;headerlink&quot; title=&quot;Hello&quot;&gt;&lt;/a&gt;Hello&lt;/h3&gt;&lt;p&gt;There are some English essays I wrote, and most of them ar
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<h3 id="Hello"><a href="#Hello" class="headerlink" title="Hello"></a>Hello</h3><p>There are some English essays I wrote, and most of them are different from Chinese essays. My English is not good, so if you find some problems which the English speaker don’t have, you can tell me directly.</p><h3 id="What"><a href="#What" class="headerlink" title="What"></a>What</h3><ul><li>feeling about life</li><li>my view about books</li><li>what I learned</li></ul>]]></content:encoded>
+      
+      <comments>https://pengqi.xyz/en/archives/13522.html#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
