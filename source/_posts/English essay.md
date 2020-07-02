@@ -13,6 +13,8 @@ date: 2020-04-10 21:26:11
 
 In order to improve my English, I intend to write English essays every weekends.
 
+<!--more-->
+
  ## Themes
 
 1. your feelings for reading some books

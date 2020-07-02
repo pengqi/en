@@ -1,11 +1,26 @@
 ---
-title: 关于
+title: about
 date: 2020-04-10 12:36:42
 type: "about"
 comments: false
 ---
 
-qq: 1739261580
+ ### Basic
+ live in the GuangDong province of china
+
+### Professional skills 
+
+- python
+
+### Hobbies
+
+- reading
+- calligraphy
+
+
+
+
+
 
 
 

@@ -121,7 +121,8 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-  resources: /resources/ || fa fa-download 
+  switch_lang: https://pengqi.xyz/ || fa fa-language # 将siriusq.top/en/替换成你的中文网站域名
+  #resources: /resources/ || fa fa-download 
   about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
@@ -376,7 +377,7 @@ back2top:
 
 # Reading progress bar
 reading_progress:
-  enable: false
+  enable: true
   # Available values: top | bottom
   position: top
   color: "#37c6c0"
@@ -615,8 +616,8 @@ changyan:
 # For more information: https://valine.js.org, https://github.com/xCss/Valine
 valine:
   enable: true
-  appid: MhY3JxjHcXji6d6Chjyg1sQJ-MdYXbMMI # Your leancloud application appid
-  appkey: l1QsdkY5mmhEIqCaLDOmsrI1 # Your leancloud application appkey
+  appid: 3FDQgmJP8RIdtcTk86U4zVUN-MdYXbMMI # Your leancloud application appid
+  appkey: RrUFg4IessDkP4V8e7Gsuf2P # Your leancloud application appkey
   notify: false # Mail notifier
   verify: false # Verification code
   placeholder: Just go go # Comment box placeholder

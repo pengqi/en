@@ -1,18 +1,18 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
-title: 吴天建
-subtitle: '探索是一种乐趣'
+title: Tianjian Wu
+subtitle: 'The world is too big, and I want to see more'
 description: ''
-keywords: 吴天建
-author: 吴天建
-language: zh-CN
+keywords: Tianjian Wu
+author: Tianjian Wu
+language: en
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://pengqi.xyz/
-root: /
+url: https://pengqi.xyz/en
+root: /en/
 permalink: archives/:abbrlink.html
 abbrlink:
    alg: crc16  # 算法：crc16(default) and crc32
@@ -100,8 +100,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:pengqi/pengqi.github.io.git #你的仓库地址
-  # repo: https://github.com/pengqi/pengqi.github.io.git  #你的仓库地址
+  repo: git@github.com:pengqi/en.git #你的仓库地址
   branch: master
 type: baidu_url_submitter 
 
