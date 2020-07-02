@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pengqi.xyz/en/top/index.html</loc>
+    
+    <lastmod>2020-07-02T05:51:18.361Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pengqi.xyz/en/tags/index.html</loc>
+    
+    <lastmod>2020-07-02T05:51:06.665Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pengqi.xyz/en/resources/index.html</loc>
+    
+    <lastmod>2020-07-02T05:50:54.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pengqi.xyz/en/categories/index.html</loc>
+    
+    <lastmod>2020-07-02T05:50:28.295Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pengqi.xyz/en/about/index.html</loc>
+    
+    <lastmod>2020-07-02T05:50:16.365Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://pengqi.xyz/en/archives/13522.html</loc>
     
     <lastmod>2020-07-02T05:16:53.102Z</lastmod>
@@ -12,41 +47,6 @@
     <loc>https://pengqi.xyz/en/404.html</loc>
     
     <lastmod>2020-06-24T08:21:06.934Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pengqi.xyz/en/top/index.html</loc>
-    
-    <lastmod>2020-06-10T09:37:39.062Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pengqi.xyz/en/about/index.html</loc>
-    
-    <lastmod>2020-04-17T02:55:47.177Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pengqi.xyz/en/resources/index.html</loc>
-    
-    <lastmod>2020-04-10T04:38:49.671Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pengqi.xyz/en/tags/index.html</loc>
-    
-    <lastmod>2020-04-10T04:37:54.390Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pengqi.xyz/en/categories/index.html</loc>
-    
-    <lastmod>2020-04-10T04:37:33.814Z</lastmod>
     
   </url>
   
