@@ -49,29 +49,6 @@
 
 
 
-<script type="text/javascript">
-  // Wait for the page to load first
-  var _prevOnload = window.onload;
-  window.onload = function() {
-      var switchLang = document.getElementsByClassName("menu-item menu-item-switch_lang")[0];
-      switchLang.onclick = function() {
-          var href = window.location.href;
-          var indexOfEn = href.toLowerCase().indexOf('/en/');
-          if(indexOfEn !== -1) {
-	 //����������޸ľͺ��ˣ�д�����������վ��ַ
-              window.location.href = href.replace(href, https://pengqi.xyz');
-          }
-          else {
-               // Ӣ����վ��ַ
-              window.location.href = href.replace(href, 'https://pengqi.github.io/en/');
-          }
-          if(typeof(_prevOnload) === 'function') {
-              _prevOnload();
-          }
-          return false;
-      }
-  }
-</script>j
 
   <title>resources | Tianjian Wu
 </title>
@@ -353,6 +330,30 @@
 
 
 
+
+<script type="text/javascript">
+  // Wait for the page to load first
+  var _prevOnload = window.onload;
+  window.onload = function() {
+      var switchLang = document.getElementsByClassName("menu-item menu-item-switch_lang")[0];
+      switchLang.onclick = function() {
+          var href = window.location.href;
+          var indexOfEn = href.toLowerCase().indexOf('/en/');
+          if(indexOfEn !== -1) {
+	 //����������޸ľͺ��ˣ�д�����������վ��ַ
+              window.location.href = href.replace(/.*/, https://pengqi.xyz');
+          }
+          else {
+               // Ӣ����վ��ַ
+              window.location.href = href.replace(/.*/, 'https://pengqi.github.io/en/');
+          }
+          if(typeof(_prevOnload) === 'function') {
+              _prevOnload();
+          }
+          return false;
+      }
+  }
+</script>j
       </div>
 
     </div>
